@@ -1,0 +1,14 @@
+{
+    "identifier": "com.brendanthompson.cue",
+    "name": "Cue",
+    "organization": "Brendan Thompson",
+    "description": "Language extension for Cue.",
+    "bugs": "https://github.com/BrendanThompson/nova-cue",
+    "repository": "https://github.com/BrendanThompson/nova-cue",
+    "activationEvents": [
+        "onLanguage:Cue",
+        "onWorkspaceContains:*.cue"
+    ],
+    "version": "1.0.0",
+    "categories": ["languages"]
+}
